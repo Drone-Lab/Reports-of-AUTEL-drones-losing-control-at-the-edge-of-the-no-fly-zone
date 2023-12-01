@@ -39,11 +39,13 @@ Remote Control Firmware Version: 1.6.5
 ![image](https://github.com/Drone-Lab/Reports-of-AUTEL-drones-losing-control-at-the-edge-of-the-no-fly-zone/assets/151698793/568caff9-e556-463a-af75-5a6f658eb1ff)
 
 PS:
-1. There is no indication on the map of the customised return point setting interface that the return point cannot be set inside the no-fly zone, and it is entirely possible for the user to set the return point inside the no-fly zone;
+1.Entering return mode is not a necessary process to trigger the vulnerability, but rather a benign user can easily trigger the vulnerability by incorrectly setting the return point resulting in loss of control of the drone.
 
-2. During the return process, the aircraft will be automatically raised to a minimum height of 25 metres or more, and will be out of the operator's line of sight, and will not be detected to be stuck at the edge of the no-fly zone at the first time.
+2. There is no indication on the map of the customised return point setting interface that the return point cannot be set inside the no-fly zone, and it is entirely possible for the user to set the return point inside the no-fly zone;
+
+3. During the return process, the aircraft will be automatically raised to a minimum height of 25 metres or more, and will be out of the operator's line of sight, and will not be detected to be stuck at the edge of the no-fly zone at the first time.
    
-3. Please pay attention to the environmental safety of the aircraft landing site during the test.
+4. Please pay attention to the environmental safety of the aircraft landing site during the test.
 
 
 
