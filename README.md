@@ -24,7 +24,7 @@ There should be no loss of control of the drone when there is a GPS signal and t
 
 The reason for the loss of control is that the AUTEL drone's no-fly zone policy has a logical loophole and the setup of the return point is not checked, the return point is allowed to be set inside the no-fly zone (compare to DJI drone, which will do a pre-check and refuse to set up the return point inside the no-fly zone). The user sets the return point inside the no-fly zone and turns on the return function, the drone will automatically fly to the return point and approach the no-fly zone at a very slow speed when it is at the edge of the no-fly zone (probably because the gps signal is not accurate enough and there are fluctuations in judgement of whether the drone is already inside the no-fly zone, so it fluctuates and allows the drone to fly further into the no-fly zone).
 
-# 0x04 Vulnerability Recovery Steps
+## 0x04 Vulnerability Recovery Steps
 Autel Drone Model: NANO Drone 
 
 Firmware Version 1.6.5 
@@ -49,8 +49,7 @@ PS:
 
 
 
-# 0x05 Video demonstration of the validation process
-
+## 0x05 Video demonstration of the validation process
 Video 1 (Screen Recording of Remote Controller Operation):
 
 https://youtu.be/M3KSgrFx-Q0
