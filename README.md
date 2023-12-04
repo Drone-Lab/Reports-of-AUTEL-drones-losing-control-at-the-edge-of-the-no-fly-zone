@@ -77,4 +77,4 @@ https://youtu.be/ewkIftcDIiQ
 
 0:18-0:41 Drone slowly approaches the no-fly zone and gets stuck at the edge.
 
-0:42-1:41 Drone loses control and can only perform an emergency landing in place.
+0:42-1:41 Drone loses control and can only perform an emergency landing in place
