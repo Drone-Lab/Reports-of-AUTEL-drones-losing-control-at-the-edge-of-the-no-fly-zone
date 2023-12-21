@@ -78,3 +78,7 @@ https://youtu.be/ewkIftcDIiQ
 0:18-0:41 Drone slowly approaches the no-fly zone and gets stuck at the edge.
 
 0:42-1:41 Drone loses control and can only perform an emergency landing in place
+
+## 0x06 Additional information
+The vulnerability has been reviewed by CNVD for a number(CNVD-2023-861988), but has not yet been publicized.
+![image](https://github.com/Drone-Lab/Reports-of-AUTEL-drones-losing-control-at-the-edge-of-the-no-fly-zone/assets/151698793/6536948c-8efa-4bd6-9768-4f0db88e032f)
